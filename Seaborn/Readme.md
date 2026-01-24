@@ -39,6 +39,5 @@ We will focus on the following sections for our workshop, which will cover more 
 * [Module 5: Visualizing Data Distributions](./Mod5-distributions.ipynb)
 * [Module 6: Visualizing Categorical Data](./Mod6-categorical.ipynb)
 * [Module 7: Multiplot Grids](./Mod7-axis_grids.ipynb)
-* [Module 8: Statistical Estimation and Error](./Mod8-error_bars.ipynb)
-* [Module 9: Regression Fits](./Mod9-regression.ipynb)
-* [Module 10: Object Plotting](./Mod10-objects_interface.ipynb)
+* [Module 8: Regression Fits](./Mod9-regression.ipynb)
+
